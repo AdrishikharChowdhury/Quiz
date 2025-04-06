@@ -1,0 +1,33 @@
+questions=["What is the capital city of Australia?",
+           "Who wrote the play Romeo and Juliet?",
+           "What planet is known as the Red Planet?",
+           "Which gas do plants absorb from the atmosphere?",
+           "How many continents are there on Earth?",
+           "Who painted the Mona Lisa?",
+           "What is the hardest natural substance on Earth?",
+           "In which year did the Titanic sink?",
+           "What is the largest mammal in the world?",
+           "Which language has the most native speakers worldwide?"]
+
+options=[["Sydney","Melbourne","Canberra","Brisbane"],
+         ["William Shakespeare","Charles Dickens","Jane Austen","Oscar Wilde"],
+         ["Venus","Jupiter","Mars","Mercury"],
+         ["Oxygen","Nitrogen","Hydrogen","Carbon Dioxide"],
+         ["5","6","7","8"],
+         ["Pablo Picasso","Vincent van Gogh","Leonardo da Vinci","Michelangelo"],
+         ["Gold","Iron","Diamond","Quartz"],
+         ["1905","1912","1920","1898"],
+         ["African Elephant","Blue Whale","Giraffe","Polar Bear"],
+         ["English","Hindi","Mandarin Chinese","Spanish"],
+         ]
+
+answers=["Canberra",
+         "William Shakespeare",
+         "Mars",
+         "Carbon Dioxide",
+         "7",
+         "Leonardo da Vinci",
+         "Diamond",
+         "1912",
+         "Blue Whale",
+         "Mandarin Chinese"]
